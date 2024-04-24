@@ -1,8 +1,10 @@
-# David Bollinger Codriver for RBR
+# David Bollinger Codriver for RBR V3
 
-# WIP
+A [David Bollinger](https://soundvalley.ch/elementor-47/) Codriver mod for Richard Burns Rally compatible with [Janne's Codriver Mod V3](https://www.youtube.com/watch?v=7TzXpQFy_Rs).
 
-A merge of [Janne's Codriver Mod V3](https://www.youtube.com/watch?v=7TzXpQFy_Rs) and [David Bollinger by Kringel](https://drive.google.com/file/d/1alECQq0gZudVvy5l6jchFIclcRxhQOHH/view)
+## Installation
+
+Download the ZIP file from the big green button on the top right of this page, extract it and copy the `Audio` and `Plugins` folder to your RBR installation folder.
 
 ### Credits
 
