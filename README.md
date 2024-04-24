@@ -9,6 +9,6 @@ Download the ZIP file from the big green button on the top right of this page, e
 ### Credits
 
 * [Janne](https://www.youtube.com/@JanneLaahanen) for the original V3 mod
-* [Kringel](https://www.youtube.com/@kringelsworkshop) for the David Bollinger mod
+* [Kringel](https://www.youtube.com/@kringelsworkshop) for the Janne V2 David Bollinger mod
 * [David Bollinger](https://soundvalley.ch/elementor-47/) for the voice
 * [RBR-RSF](https://www.rallysimfans.hu/rbr/index.php) for the great work of keeping RBR alive
